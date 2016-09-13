@@ -1,3 +1,3 @@
 # RNA_seq_DE_analysis_Tutorial
 
-RNA-seq Differential Expression Analysis Tutorial with DESEQ2
+RNA-seq Differential Expression Analysis lecture and tutorial with DESEQ2
